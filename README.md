@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Ricky's Meal Prep Generator
+Check it out live here: https://ricky-liao.github.io/MealPrepGenerator/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
