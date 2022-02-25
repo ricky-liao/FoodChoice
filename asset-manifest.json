@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MealPrepGenerator/static/css/main.0ab0b8e1.css",
+    "main.css": "/MealPrepGenerator/static/css/main.38b93fb5.css",
     "main.js": "/MealPrepGenerator/static/js/main.908ab8f6.js",
     "static/js/787.02354990.chunk.js": "/MealPrepGenerator/static/js/787.02354990.chunk.js",
     "static/media/logo.svg": "/MealPrepGenerator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/MealPrepGenerator/index.html",
-    "main.0ab0b8e1.css.map": "/MealPrepGenerator/static/css/main.0ab0b8e1.css.map",
+    "main.38b93fb5.css.map": "/MealPrepGenerator/static/css/main.38b93fb5.css.map",
     "main.908ab8f6.js.map": "/MealPrepGenerator/static/js/main.908ab8f6.js.map",
     "787.02354990.chunk.js.map": "/MealPrepGenerator/static/js/787.02354990.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ab0b8e1.css",
+    "static/css/main.38b93fb5.css",
     "static/js/main.908ab8f6.js"
   ]
 }
