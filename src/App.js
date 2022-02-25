@@ -15,7 +15,7 @@ function App() {
 
   function getMealData() {
     fetch(
-      `https://api.spoonacular.com/mealplanner/generate?apiKey=` + API_KEY + `&timeFrame=day&targetCalories${calories}`
+      `https://api.spoonacular.com/mealplanner/generate?apiKey=` + API_KEY + `&timeFrame=day&targetCalories=${calories}`
     )
     .then((response) => response.json())
     .then((data) => {
